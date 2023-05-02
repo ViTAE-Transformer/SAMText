@@ -168,7 +168,7 @@ If you find SAMText helpful, please consider giving this repo a star:star: and c
 
 ```
 @inproceedings{SAMText,
-  title={ Scalable Mask Annotation for Video Text Spotting},
+  title={Scalable Mask Annotation for Video Text Spotting},
   author={Haibin He, Jing Zhang, Mengyang Xu, Juhua Liu, Bo Du, Dacheng Tao},
   booktitle={arxiv},
   year={2023}
