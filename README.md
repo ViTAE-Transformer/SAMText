@@ -64,7 +64,7 @@ sourced from existing annotations or derived from a scene text detection model.<
 
 
 # Usage
-The code and models will be released soon.
+The code and dataset will be released soon.
 
 
 
