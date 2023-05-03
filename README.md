@@ -1,4 +1,4 @@
-<h1 align="center"> Scalable Mask Annotation for Video Text Spotting</a><img src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></h1>
+<h1 align="center"> Scalable Mask Annotation for Video Text Spotting<a href="https://arxiv.org/abs/2305.01443"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a> </h1>
 <p align="center">
 <h4 align="center">This is the official repository of the paper <a href="https://arxiv.org/abs/2305.01443">Scalable Mask Annotation for Video Text Spotting</a>.</h4>
 <h5 align="center"><em>Haibin He, Jing Zhang, Mengyang Xu, Juhua Liu, Bo Du, Dacheng Tao</em></h5>
@@ -10,6 +10,7 @@
   <a href="#results">Results</a> |
   <a href="#statement">Statement</a>
 </p>
+
 
 
 
@@ -31,6 +32,10 @@
   > [**DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting** ](https://arxiv.org/pdf/2211.10772v3) | [Code](https://github.com/ViTAE-Transformer/DeepSolo)
   >
   > Maoyuan Ye,  Jing Zhang, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao
+  >
+  > [**I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection** ](https://arxiv.org/abs/2108.01343) | [Code](https://github.com/ViTAE-Transformer/I3CL)
+  >
+  > Bo Du, Jian Ye, Jing Zhang, Juhua Liu, Dacheng Tao
 
   Other applications of [ViTAE](https://github.com/ViTAE-Transformer/ViTAE-Transformer) inlcude: [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) | [Remote Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing) | [Matting](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting) | [VSA](https://github.com/ViTAE-Transformer/ViTAE-VSA) | [Video Object Segmentation](https://github.com/ViTAE-Transformer/VOS-LLB)
 
